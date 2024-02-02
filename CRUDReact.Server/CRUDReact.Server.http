@@ -1,0 +1,6 @@
+@CRUDReact.Server_HostAddress = http://localhost:5029
+
+GET {{CRUDReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

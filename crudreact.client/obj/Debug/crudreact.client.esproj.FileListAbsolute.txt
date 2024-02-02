@@ -1,0 +1,1 @@
+D:\petPrjkt\CRUDReact\crudreact.client\obj\Debug\crudreact.client.esproj.CoreCompileInputs.cache
